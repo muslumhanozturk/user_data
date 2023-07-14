@@ -1,3 +1,5 @@
+#Automated Setup Script for Apache Web Server with Custom Homepage
+
 #! /bin/bash
 #update os
 yum update -y
